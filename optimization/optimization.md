@@ -42,11 +42,9 @@ $$
 \end{align*}
 $$
 
-Em que x representa o vetor de variáveis de decisão, c e b são vetores de coeficientes conhecidos e A é uma matriz de coeficientes conhecidos. A função objetivo $c \cdit x$ pode ser maximizada ou minimizada. As inequações $A \cdot x \leq b$ são as restrições. A restrição de não negatividade é representada por $x \gep 0$.
+Em que x representa o vetor de variáveis de decisão, c e b são vetores de coeficientes conhecidos e A é uma matriz de coeficientes conhecidos. A função objetivo $c \cdot x$ pode ser maximizada ou minimizada. As inequações $A \cdot x \leq b$ são as restrições. A restrição de não negatividade é representada por $x \ge 0$.
 
 ## Bonuses and Merits
-
-
 
 # Integer programming
 # Nonlinear programming
