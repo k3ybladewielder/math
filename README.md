@@ -18,7 +18,7 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 ## Machine Learning
 - Izbicki, R., & Santos, T. M. (2022). Aprendizado de máquina: Uma abordagem estatística. UICLAP.
 - Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for machine learning. Cambridge University Press.
-- Krause, A., & Hübotter, J. (Ano). Probabilistic artificial intelligence. Retrieved from https://arxiv.org/abs/2502.05244
+- Krause, A., & Hübotter, J. (2025). Probabilistic artificial intelligence. Retrieved from https://arxiv.org/abs/2502.05244
 - Géron, A. (2019). Mãos à obra: Aprendizado de máquina com Scikit-Learn & TensorFlow. Alta Books.
 - Murphy, K. P. (2023). Probabilistic machine learning: Advanced topics. MIT Press.
 - Murphy, K. P. (2022). Probabilistic machine learning: An introduction. MIT Press.
@@ -55,6 +55,7 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 - [**Matemática Ensino Médio (BNCC) @ Khan Academy**](https://pt.khanacademy.org/math/em-matematica-bncc)
 - [**Essence of linear algebra @ 3Blue1Brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [**Essence of calculus @ 3Blue1Brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [**Análise Real @  Mas você só estuda?**](https://www.youtube.com/playlist?list=PLXJiRYhBbhtX_ycUrBMbupydPfW-YK8TF)
 
 ## Licence
 - **Attribution-NonCommercial-ShareAlike 4.0 International** [**CC BY-NC-SA**](https://github.com/k3ybladewielder/math_for_ml_ds/blob/main/LICENSE)
