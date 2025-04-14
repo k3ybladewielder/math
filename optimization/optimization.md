@@ -1,6 +1,3 @@
-# Introduction
-Este arquivo possui anotações, resumos, fichamentos e insights **pessoais** sobre estudos. Ele não possui materiais derivados.
-
 # Linear programming
 ## Introdução
 Programação linear (linear programming) busca otimizar uma **função objetivo linear** sujeito a algumas restrições que também são lineares. Técnicas de programação linear são empregadas em um grande número de problemas, como planejamento de produção, planejamento financeiro, gestão de recursos humanos, problemas de transporte, distribuição, distribuição de subsídios, planejamento florestal, programação de voos, etc. 
@@ -25,9 +22,31 @@ Os modelos de programação linear apresentam uma série de limitações devido 
 8. Tanto a quantidade do recurso empregado quanto o valor da função objetivo são proporcionais aos valores das variáveis ​​de decisão. Esse requisito de proporcionalidade é atendido, pois a função é objetiva e as restrições são lineares.
 
 Um moldeo de programação linear consiste em três componentes linkados por relações matemáticas:
-1. Variáveis de decisão;
-2. Função objetivo;
-3. Restrições (constraints).
+1. **Variáveis de decisão**: Fatores que o tomador de decisão deve escolher e são variáveis controláveis. O objetivo da programação linear é encontrar os melhores valores dessas variáveis de decisão.
+2. **Função objetivo**: Representa a relação as variáveis de decisão e variáveis incontroláveis. Pode ser maximizar ou minimizar uma quantidade, e é limitada pelas restrições.
+3. **Restrições (constraints)**: São as limitações impostas pelas variáveis não controláveis (ambiente) pelo tomador de decisão.
+
+A construção de um modelo de programação linear consiste nas seguintes etapas:
+1. definir variáveis ​​de decisão; 
+2. definir o objetivo ou meta em termos das variáveis ​​de decisão; 
+3. definir todas as restrições do sistema, e;
+4. restringir todas as variáveis ​​para que não sejam negativas. 
+
+Um modelo de programação linear pode ser expresso formalmente como:
+
+$$
+\begin{align*}
+\text{Maximize} \quad & c^T x \\
+\text{subject to} \quad & Ax \leq b \\
+& x \geq 0
+\end{align*}
+$$
+
+Em que x representa o vetor de variáveis de decisão, c e b são vetores de coeficientes conhecidos e A é uma matriz de coeficientes conhecidos. A função objetivo $c \cdit x$ pode ser maximizada ou minimizada. As inequações $A \cdot x \leq b$ são as restrições. A restrição de não negatividade é representada por $x \gep 0$.
+
+## Bonuses and Merits
+
+
 
 # Integer programming
 # Nonlinear programming
@@ -38,6 +57,9 @@ Um moldeo de programação linear consiste em três componentes linkados por rel
 # Games theory
 # Dynamic programming and
 # Markov processes
+
+# Disclaimer
+Este arquivo possui anotações, resumos, fichamentos e insights **pessoais** sobre estudos. Ele não possui materiais derivados.
 
 # References
 - Poler, R., Mula, J., & Díaz-Madroñero, M. (2014). *Operations research problems: Statements and solutions*. Springer-Verlag.
