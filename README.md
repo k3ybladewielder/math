@@ -42,7 +42,8 @@ Este repositório possui anotações, resumos, fichamentos e insights **pessoais
 - Bacci, S., & Chiandotto B. (2020). *Introduction to Statistical Decision Theory. Utility Theory and Causal Analysis*. CRC Press.
 
 
-### Causal Inference
+## Causal Inference
+- Judea Pearl, J., & Dana MacKenzie (2020). *The Book of Why: The New Science of Cause and Effect* (Reprint ed.). Basic Books. ISBN 978-1541698963.
 
 
 # Courses 🧑‍💻
